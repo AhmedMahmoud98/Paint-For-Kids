@@ -1,0 +1,220 @@
+﻿Build started 22/01/2018 07:35:47 م.
+     1>Project "D:\Projects\Paint For Kids\Paint For Kids\Phase2 - Project Framework\PT-Project.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         D:\Programmes\New folder\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo".\Debug/" /Fd".\Debug/vc140.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt Actions\AddCircAction.cpp Actions\AddLineAction.cpp Actions\AddTriaAction.cpp Actions\BacwardAction.cpp Actions\CopyAction.cpp Actions\CutAction.cpp Actions\DeleteAction.cpp Actions\DrawingColorAction.cpp Actions\FillingColorAction.cpp Actions\ForwardAction.cpp Actions\LoadAction.cpp Actions\PasteAction.cpp Actions\PlayWithColor.cpp Actions\PlayWithType.cpp Actions\PlayWithTypeColor.cpp Actions\ResizeAction.cpp Actions\RotateAction.cpp Actions\SaveAction.cpp Actions\SelectAction.cpp Actions\SwitchToDraw.cpp Actions\SwitchToPlay.cpp CMUgraphicsLib\auxil.cpp CMUgraphicsLib\CMUgraphics.cpp CMUgraphicsLib\colors.cpp CMUgraphicsLib\image.cpp CMUgraphicsLib\keyqueue.cpp CMUgraphicsLib\mousequeue.cpp CMUgraphicsLib\windowinput.cpp Figures\CCircle.cpp Figures\CFigure.cpp Figures\CLine.cpp Figures\CRectangle.cpp Actions\AddRectAction.cpp Figures\CTriangle.cpp GUI\Input.cpp GUI\Output.cpp ApplicationManager.cpp main.cpp
+         main.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+         ApplicationManager.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.h(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ccircle.h(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         Output.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\gui\output.cpp(364): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\gui\output.cpp(365): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+         Input.cpp
+         CTriangle.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ctriangle.cpp(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ctriangle.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ctriangle.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ctriangle.cpp(54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+         AddRectAction.cpp
+         CRectangle.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\crectangle.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\crectangle.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\crectangle.cpp(58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\crectangle.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\crectangle.cpp(62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\crectangle.cpp(63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\crectangle.cpp(64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\crectangle.cpp(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+         CLine.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.h(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(98): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(103): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+         CFigure.cpp
+         CCircle.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ccircle.h(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ccircle.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ccircle.cpp(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ccircle.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+         windowinput.cpp
+         mousequeue.cpp
+         keyqueue.cpp
+         image.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\image.cpp(115): warning C4018: '<': signed/unsigned mismatch
+         colors.cpp
+         CMUgraphics.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\cmugraphics.cpp(257): warning C4101: 'iX': unreferenced local variable
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\cmugraphics.cpp(257): warning C4101: 'iY': unreferenced local variable
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\cmugraphics.cpp(751): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\cmugraphics.cpp(1164): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\cmugraphics.cpp(1171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\cmugraphics.cpp(1202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\cmugraphics.cpp(1210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\cmugraphics.cpp(1357): warning C4018: '>': signed/unsigned mismatch
+         auxil.cpp
+         SwitchToPlay.cpp
+         SwitchToDraw.cpp
+         SelectAction.cpp
+         Generating Code...
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.cpp(79): warning C4715: 'CLine::Get': not all control paths return a value
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\gui\input.cpp(242): warning C4715: 'Input::GetUserAction': not all control paths return a value
+         Compiling...
+         SaveAction.cpp
+         RotateAction.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\actions\rotateaction.cpp(13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+         ResizeAction.cpp
+         PlayWithTypeColor.cpp
+         PlayWithType.cpp
+         PlayWithColor.cpp
+         PasteAction.cpp
+         LoadAction.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.h(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ccircle.h(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\actions\loadaction.cpp(37): warning C4101: 'Figcount': unreferenced local variable
+         ForwardAction.cpp
+         FillingColorAction.cpp
+         DrawingColorAction.cpp
+         DeleteAction.cpp
+         CutAction.cpp
+         CopyAction.cpp
+         BacwardAction.cpp
+         AddTriaAction.cpp
+         AddLineAction.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\cline.h(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         AddCircAction.cpp
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\figures\ccircle.h(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+         D:\Programmes\New folder\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo".\Debug/" /Fd".\Debug/vc140.pdb" /FR".\Debug\\" /Gd /TC /analyze- /errorReport:prompt CMUgraphicsLib\jpegload.c CMUgraphicsLib\jpeg\jcomapi.c CMUgraphicsLib\jpeg\jcparam.c CMUgraphicsLib\jpeg\jdapimin.c CMUgraphicsLib\jpeg\jdapistd.c CMUgraphicsLib\jpeg\jdatasrc.c CMUgraphicsLib\jpeg\jdcoefct.c CMUgraphicsLib\jpeg\jdcolor.c CMUgraphicsLib\jpeg\jddctmgr.c CMUgraphicsLib\jpeg\jdhuff.c CMUgraphicsLib\jpeg\jdinput.c CMUgraphicsLib\jpeg\jdmainct.c CMUgraphicsLib\jpeg\jdmarker.c CMUgraphicsLib\jpeg\jdmaster.c CMUgraphicsLib\jpeg\jdmerge.c CMUgraphicsLib\jpeg\jdphuff.c CMUgraphicsLib\jpeg\jdpostct.c CMUgraphicsLib\jpeg\jdsample.c CMUgraphicsLib\jpeg\jdtrans.c CMUgraphicsLib\jpeg\jerror.c CMUgraphicsLib\jpeg\jidctflt.c CMUgraphicsLib\jpeg\jidctfst.c CMUgraphicsLib\jpeg\jidctint.c CMUgraphicsLib\jpeg\jidctred.c CMUgraphicsLib\jpeg\jmemmgr.c CMUgraphicsLib\jpeg\jmemnobs.c CMUgraphicsLib\jpeg\jquant1.c CMUgraphicsLib\jpeg\jquant2.c CMUgraphicsLib\jpeg\jutils.c
+         jutils.c
+         jquant2.c
+         jquant1.c
+         jmemnobs.c
+         jmemmgr.c
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\jpeg\jmemmgr.c(1103): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdlib.h(1183): note: see declaration of 'getenv'
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\jpeg\jmemmgr.c(1106): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+         jidctred.c
+         jidctint.c
+         jidctfst.c
+         jidctflt.c
+         jerror.c
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\jpeg\jerror.c(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\jpeg\jerror.c(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+         jdtrans.c
+         jdsample.c
+         jdpostct.c
+         jdphuff.c
+         jdmerge.c
+         jdmaster.c
+         jdmarker.c
+         jdmainct.c
+         jdinput.c
+         jdhuff.c
+         Generating Code...
+         Compiling...
+         jddctmgr.c
+         jdcolor.c
+         jdcoefct.c
+         jdatasrc.c
+         jdapistd.c
+         jdapimin.c
+         jcparam.c
+         jcomapi.c
+         jpegload.c
+     1>d:\projects\paint for kids\paint for kids\phase2 - project framework\cmugraphicslib\jpegload.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+         Generating Code...
+       Link:
+         D:\Programmes\New folder\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/PT Project.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:".\Debug/PT Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\PT Project.lib" /MACHINE:X86 /SAFESEH .\Debug/AddCircAction.obj
+         .\Debug/AddLineAction.obj
+         .\Debug/AddTriaAction.obj
+         .\Debug/BacwardAction.obj
+         .\Debug/CopyAction.obj
+         .\Debug/CutAction.obj
+         .\Debug/DeleteAction.obj
+         .\Debug/DrawingColorAction.obj
+         .\Debug/FillingColorAction.obj
+         .\Debug/ForwardAction.obj
+         .\Debug/LoadAction.obj
+         .\Debug/PasteAction.obj
+         .\Debug/PlayWithColor.obj
+         .\Debug/PlayWithType.obj
+         .\Debug/PlayWithTypeColor.obj
+         .\Debug/ResizeAction.obj
+         .\Debug/RotateAction.obj
+         .\Debug/SaveAction.obj
+         .\Debug/SelectAction.obj
+         .\Debug/SwitchToDraw.obj
+         .\Debug/SwitchToPlay.obj
+         .\Debug/auxil.obj
+         .\Debug/CMUgraphics.obj
+         .\Debug/colors.obj
+         .\Debug/image.obj
+         .\Debug/jpegload.obj
+         .\Debug/keyqueue.obj
+         .\Debug/mousequeue.obj
+         .\Debug/windowinput.obj
+         .\Debug/jcomapi.obj
+         .\Debug/jcparam.obj
+         .\Debug/jdapimin.obj
+         .\Debug/jdapistd.obj
+         .\Debug/jdatasrc.obj
+         .\Debug/jdcoefct.obj
+         .\Debug/jdcolor.obj
+         .\Debug/jddctmgr.obj
+         .\Debug/jdhuff.obj
+         .\Debug/jdinput.obj
+         .\Debug/jdmainct.obj
+         .\Debug/jdmarker.obj
+         .\Debug/jdmaster.obj
+         .\Debug/jdmerge.obj
+         .\Debug/jdphuff.obj
+         .\Debug/jdpostct.obj
+         .\Debug/jdsample.obj
+         .\Debug/jdtrans.obj
+         .\Debug/jerror.obj
+         .\Debug/jidctflt.obj
+         .\Debug/jidctfst.obj
+         .\Debug/jidctint.obj
+         .\Debug/jidctred.obj
+         .\Debug/jmemmgr.obj
+         .\Debug/jmemnobs.obj
+         .\Debug/jquant1.obj
+         .\Debug/jquant2.obj
+         .\Debug/jutils.obj
+         .\Debug/CCircle.obj
+         .\Debug/CFigure.obj
+         .\Debug/CLine.obj
+         .\Debug/CRectangle.obj
+         .\Debug/AddRectAction.obj
+         .\Debug/CTriangle.obj
+         .\Debug/Input.obj
+         .\Debug/Output.obj
+         .\Debug/ApplicationManager.obj
+         .\Debug/main.obj
+     1>AddCircAction.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         PT-Project.vcxproj -> D:\Projects\Paint For Kids\Paint For Kids\Phase2 - Project Framework\.\Debug\PT Project.exe
+       BscMake:
+         D:\Programmes\New folder\VC\bin\bscmake.exe /nologo /o".\Debug/PT Project.bsc" .\Debug\AddCircAction.sbr .\Debug\AddLineAction.sbr .\Debug\AddTriaAction.sbr .\Debug\BacwardAction.sbr .\Debug\CopyAction.sbr .\Debug\CutAction.sbr .\Debug\DeleteAction.sbr .\Debug\DrawingColorAction.sbr .\Debug\FillingColorAction.sbr .\Debug\ForwardAction.sbr .\Debug\LoadAction.sbr .\Debug\PasteAction.sbr .\Debug\PlayWithColor.sbr .\Debug\PlayWithType.sbr .\Debug\PlayWithTypeColor.sbr .\Debug\ResizeAction.sbr .\Debug\RotateAction.sbr .\Debug\SaveAction.sbr .\Debug\SelectAction.sbr .\Debug\SwitchToDraw.sbr .\Debug\SwitchToPlay.sbr .\Debug\auxil.sbr .\Debug\CMUgraphics.sbr .\Debug\colors.sbr .\Debug\image.sbr .\Debug\jpegload.sbr .\Debug\keyqueue.sbr .\Debug\mousequeue.sbr .\Debug\windowinput.sbr .\Debug\jcomapi.sbr .\Debug\jcparam.sbr .\Debug\jdapimin.sbr .\Debug\jdapistd.sbr .\Debug\jdatasrc.sbr .\Debug\jdcoefct.sbr .\Debug\jdcolor.sbr .\Debug\jddctmgr.sbr .\Debug\jdhuff.sbr .\Debug\jdinput.sbr .\Debug\jdmainct.sbr .\Debug\jdmarker.sbr .\Debug\jdmaster.sbr .\Debug\jdmerge.sbr .\Debug\jdphuff.sbr .\Debug\jdpostct.sbr .\Debug\jdsample.sbr .\Debug\jdtrans.sbr .\Debug\jerror.sbr .\Debug\jidctflt.sbr .\Debug\jidctfst.sbr .\Debug\jidctint.sbr .\Debug\jidctred.sbr .\Debug\jmemmgr.sbr .\Debug\jmemnobs.sbr .\Debug\jquant1.sbr .\Debug\jquant2.sbr .\Debug\jutils.sbr .\Debug\CCircle.sbr .\Debug\CFigure.sbr .\Debug\CLine.sbr .\Debug\CRectangle.sbr .\Debug\AddRectAction.sbr .\Debug\CTriangle.sbr .\Debug\Input.sbr .\Debug\Output.sbr .\Debug\ApplicationManager.sbr .\Debug\main.sbr
+     1>Done Building Project "D:\Projects\Paint For Kids\Paint For Kids\Phase2 - Project Framework\PT-Project.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:48.36
